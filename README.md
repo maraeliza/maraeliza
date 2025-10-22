@@ -63,15 +63,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="Node.js" width="40" height="40"/>
     <img src="https://i.postimg.cc/sgzXxD2y/net-framework.png" alt="dotnet" title=".NET" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" title="Spring" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/>
   </p>
 </details>
 
 <details>
   <summary><strong>🛢️ Banco de Dados</strong></summary>
   <p>
+    <img src="https://i.postimg.cc/kgGHxWGB/My-SQL-logo.png" alt="mysql" title="MySQL" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="PostgreSQL" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" title="Oracle" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/>
   </p>
 </details>
 
